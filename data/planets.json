@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "Mercury",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/WjY6to.png",
+      "orderOfProximityToSun": 1,
+      "shortDescription": "Smallest and hottest planet.",
+      "longDescription": "Mercury is the closest planet to the Sun, experiencing extreme temperature fluctuations. It has almost no atmosphere.",
+      "primaryColor": "0xFFFFB700",
+      "videoUrl": "https://youtu.be/OasnhfHIlgk"
+    },
+    {
+      "id": 2,
+      "name": "Venus",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/WjYne3.png",
+      "orderOfProximityToSun": 2,
+      "shortDescription": "Thick clouds, very hot planet.",
+      "longDescription": " Venus is known for its dense atmosphere and extremely high surface temperatures. It is the hottest planet in the Solar System, with no liquid water on its surface.",
+      "primaryColor": "0xFFE8D3A2",
+      "videoUrl": "https://youtu.be/hUid1efPVWM"
+    },
+    {
+      "id": 3,
+      "name": "Earth",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/WjYI5K.png",
+      "orderOfProximityToSun": 3,
+      "shortDescription": "Life-supporting blue planet.",
+      "longDescription": "Earth is the only known planet to support life, with its oceans, landmasses, and atmosphere. It is the third planet from the Sun, with a unique climate and water cycle.",
+      "primaryColor": "0xFF00FF26",
+      "videoUrl": "https://youtu.be/KJwYBJMSbPI"
+    },
+    {
+      "id": 4,
+      "name": "Mars",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/WjbMND.png",
+      "orderOfProximityToSun": 4,
+      "shortDescription": "Red planet, ancient water traces.",
+      "longDescription": "Mars appears red due to iron oxide on its surface. Evidence suggests it once had water, and it is currently being studied by unmanned exploration missions.",
+      "primaryColor": "0xFFE8A45A",
+      "videoUrl": "https://youtu.be/Vy_RPd0rblI"
+    },
+    {
+      "id": 5,
+      "name": "Jupiter",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/WjbENi.png",
+      "orderOfProximityToSun": 5,
+      "shortDescription": "Jupiter is the largest planet in our solar system.",
+      "longDescription": "Jupiter is the largest planet in the Solar System, primarily composed of hydrogen and helium. It is known for its Great Red Spot, a storm larger than Earth.",
+      "primaryColor": "0xFFD9E6F2",
+      "videoUrl": "https://youtu.be/CJUdSyJXyPI"
+    },
+    {
+      "id": 6,
+      "name": "Saturn",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/WjbyA3.png",
+      "orderOfProximityToSun": 6,
+      "shortDescription": "Extensive ring system, gas giant.",
+      "longDescription": "Saturn is known for its extensive and prominent ring system. Like Jupiter, it is a gas giant, primarily made of hydrogen and helium. Its rings are composed of ice and rock.",
+      "primaryColor": "0xFFE8D3A2",
+      "videoUrl": "https://youtu.be/UQp_aVA8gXs"
+    },
+    {
+      "id": 7,
+      "name": "Uranus",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/WjbsUc.png",
+      "orderOfProximityToSun": 7,
+      "shortDescription": "Tilted axis, blue ice giant.",
+      "longDescription": "Uranus is unique for its tilted axis. Its blue-green color comes from methane in its atmosphere. It is classified as an ice giant.",
+      "primaryColor": "0xFFA3D4E0"
+    },
+    {
+      "id": 8,
+      "name": "Neptune",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/Wjb7sj.png",
+      "orderOfProximityToSun": 8,
+      "shortDescription": "Farthest, windy blue planet.",
+      "longDescription": "Neptune is the outermost planet in the Solar System, known for its violent winds. Its atmosphere contains methane, giving it a blue appearance.",
+      "primaryColor": "0xFFA3D4E0"
+    },
+    {
+      "id": 9,
+      "name": "Pluto",
+      "imageUrl": "https://resmim.net/cdn/2024/07/12/WjbLH2.png",
+      "orderOfProximityToSun": 9,
+      "shortDescription": "Icy, small dwarf planet.",
+      "longDescription": "Pluto was reclassified as a dwarf planet in 2006. Its surface is made of ice and rock, and it resides in the Kuiper Belt of the Solar System.",
+      "primaryColor": "0xFFD9E6F2"
+    }
+  ]
+  
