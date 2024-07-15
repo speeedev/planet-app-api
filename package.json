@@ -4,8 +4,10 @@
   "description": "Developed for mobile Planet app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "some command to be run", // you need to add this line
+    "test": "(eslint lib || true) && jest"
+  }
+
   "author": "Emir Bolat (SpeeDEV)",
   "license": "ISC",
   "dependencies": {
