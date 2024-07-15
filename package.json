@@ -4,7 +4,7 @@
   "description": "Developed for mobile Planet app",
   "main": "index.js",
   "scripts": {
-    "start": "some command to be run",
+    "start": "node index.js",
     "test": "(eslint lib || true) && jest"
   },
 

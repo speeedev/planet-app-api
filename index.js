@@ -24,5 +24,5 @@ app.get('/planets', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Sunucu çalışıyor: http://localhost:${port}`);
+  console.log(`Server started: http://localhost:${port}`);
 });
