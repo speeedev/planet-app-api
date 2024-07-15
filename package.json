@@ -6,7 +6,7 @@
   "scripts": {
     "start": "some command to be run",
     "test": "(eslint lib || true) && jest"
-  }
+  },
 
   "author": "Emir Bolat (SpeeDEV)",
   "license": "ISC",
